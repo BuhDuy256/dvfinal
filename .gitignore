@@ -1,0 +1,23 @@
+# Ignore data folder (large files)
+data/
+
+# Python cache (nếu bạn dùng Python)
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints (nếu có)
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
