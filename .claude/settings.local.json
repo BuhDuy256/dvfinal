@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda run *)",
+      "Bash(C:\\\\dev_env\\\\miniconda\\\\python.exe *)",
+      "PowerShell(C:\\\\dev_env\\\\miniconda\\\\python.exe C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\read_docx.py)",
+      "PowerShell(C:\\\\dev_env\\\\miniconda\\\\python.exe -c \"import docx; print\\('ok'\\)\")",
+      "PowerShell(C:\\\\dev_env\\\\miniconda\\\\Scripts\\\\pip.exe install python-docx -q)",
+      "PowerShell(C:\\\\dev_env\\\\miniconda\\\\python.exe C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\generate_report.py)"
+    ]
+  }
+}
