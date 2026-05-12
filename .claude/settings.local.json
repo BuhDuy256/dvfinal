@@ -8,7 +8,9 @@
       "PowerShell(C:\\\\dev_env\\\\miniconda\\\\Scripts\\\\pip.exe install python-docx -q)",
       "PowerShell(C:\\\\dev_env\\\\miniconda\\\\python.exe C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\generate_report.py)",
       "Bash(Get-Item \"C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\docs\\\\guide\\\\data_visualization_report_audit_framework.md\")",
-      "Bash(Select-Object Name, Length)"
+      "Bash(Select-Object Name, Length)",
+      "Bash(python -c ' *)",
+      "PowerShell(& \"C:\\\\dev_env\\\\miniconda\\\\python.exe\" \"C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\make_docx.py\")"
     ]
   }
 }
