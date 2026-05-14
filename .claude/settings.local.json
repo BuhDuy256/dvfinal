@@ -13,7 +13,10 @@
       "PowerShell(& \"C:\\\\dev_env\\\\miniconda\\\\python.exe\" \"C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\make_docx.py\")",
       "Bash(python -c \"import docx; print\\('python-docx OK'\\)\")",
       "Bash(python docs/report/insert_evaluations.py)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\docs\\\\report\" -Recurse)",
+      "Bash(Select-Object FullName)",
+      "Bash(pip install *)"
     ]
   }
 }
