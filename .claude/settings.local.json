@@ -10,7 +10,10 @@
       "Bash(Get-Item \"C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\docs\\\\guide\\\\data_visualization_report_audit_framework.md\")",
       "Bash(Select-Object Name, Length)",
       "Bash(python -c ' *)",
-      "PowerShell(& \"C:\\\\dev_env\\\\miniconda\\\\python.exe\" \"C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\make_docx.py\")"
+      "PowerShell(& \"C:\\\\dev_env\\\\miniconda\\\\python.exe\" \"C:\\\\Users\\\\Duy\\\\Desktop\\\\dvfinal\\\\make_docx.py\")",
+      "Bash(python -c \"import docx; print\\('python-docx OK'\\)\")",
+      "Bash(python docs/report/insert_evaluations.py)",
+      "Bash(python *)"
     ]
   }
 }
